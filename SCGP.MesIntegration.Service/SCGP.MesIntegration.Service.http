@@ -1,0 +1,6 @@
+@SCGP.MesIntegration.Service_HostAddress = http://localhost:5293
+
+GET {{SCGP.MesIntegration.Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
